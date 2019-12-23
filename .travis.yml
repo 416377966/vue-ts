@@ -1,0 +1,4 @@
+language: javascript
+sudo: required
+before_install: sudo npm install
+script: true
