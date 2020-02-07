@@ -1,5 +1,5 @@
 node_js: stable
 language: node_js
 sudo: required
-before_install: npm install
+install: npm install
 script: true
