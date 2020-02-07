@@ -1,7 +1,7 @@
 node_js: stable
 language: node_js
 sudo: required
-install: npm install
-script: true
-after_script:
+script: npm run build
+after_script
+  - cd bin
   - ls
