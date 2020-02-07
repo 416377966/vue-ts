@@ -3,4 +3,5 @@ language: node_js
 sudo: required
 install: npm install
 script: true
-after_script: ls
+after_script:
+  - ls
