@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "build": "cross-env TYPE=prod node build/webpack.build.config.js",
