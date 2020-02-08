@@ -6,3 +6,4 @@ after_script
   - ls
   - cd bin
   - ls
+  - console.log(123)
